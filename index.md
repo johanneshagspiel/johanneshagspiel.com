@@ -18,11 +18,11 @@ Outside thoughtware, I'm currently learning Chinese and representational drawing
 
 <div class="posts" id="Blog">
     <ul>
-        {% assign tools = site.projects | sort | reverse %}
-        {% for tool in tools limit:10 %}
+        {% assign tools = site.software-projects | sort | reverse %}
+        {% for software-project in software-projects limit:10 %}
 
         <li>
-            <div style="font-weight: normal"><a href="{{ site.baseurl }}{{ tool.url }}">{{ tool.title | downcase }}</a>: {{ tool.description | downcase }}</div>
+            <div style="font-weight: normal"><a href="{{ site.baseurl }}{{ software-projects.url }}">{{ software-projects.title | downcase }}</a>: {{ software-projects.description | downcase }}</div>
         </li>
         {% endfor %}
     </ul>
