@@ -14,6 +14,22 @@ I'm a Romanian-born Netherlands-based student exploring synergies between the or
 
 Outside thoughtware, I'm currently learning Chinese and representational drawing, with varying degrees of success. I love visiting other worlds through fiction, and I'm trying my best to combine the effectiveness of habits with the quality of agency. To share my thoughts in a more structured format, I'm writing one short article per week.
 
+### software projects [(see all)](/software-projects)
+
+<div class="posts" id="Blog">
+    <ul>
+        {% assign tools = site.projects | sort | reverse %}
+        {% for tool in tools limit:10 %}
+
+        <li>
+            <div style="font-weight: normal"><a href="{{ site.baseurl }}{{ tool.url }}">{{ tool.title | downcase }}</a>: {{ tool.description | downcase }}</div>
+        </li>
+        {% endfor %}
+    </ul>
+
+</div>
+
+
 ### recent writing [(see all)](/reflections)
 
 <div class="posts" id="Blog">
