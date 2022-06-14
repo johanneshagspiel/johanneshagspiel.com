@@ -1,5 +1,5 @@
 ---
-layout: software-projects
+layout: software-project
 title: Haskell JQ Recreation
 description: "✂️ A recreation of the JSON processor jq in Haskell."
 published: True

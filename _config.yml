@@ -1,13 +1,13 @@
-site: Paul Bricman
-title: Paul Bricman
-description: A common thread which weaves together various fragments of my identity into a unified whole.
+site: Johannes Hagspiel
+title: Johannes Hagspiel
+description: A personal website.
 googlewebfonts: Space+Grotesk:wght@400;500;700
 lang: en-US
 data-theme: dark # default theme "dark" | "light"
 
 # URL settings
-url: "https://paulbricman.com"
-permalink: "https://paulbricman.com"
+url: "https://johanneshagspiel.github.io/"
+permalink: "https://johanneshagspiel.github.io/"
 permalink: pretty 
 
 
@@ -51,6 +51,9 @@ collections:
   thoughtware:
     output: true
     permalink: /thoughtware/:slug
+  software-projects:
+    output: true
+    permalink: /software-projects/:slug
   
 defaults:
   -
@@ -70,6 +73,12 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: "software-projects"
+    values:
+      layout: "software-projects"
 
 relative_links:
   enabled:     true
