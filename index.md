@@ -4,8 +4,8 @@ layout: page
 
 <center>
 <br/>
-<img width="30%" src="/assets/img/profile.jpeg" style="border-radius: 50%;">
-<h2>Paul Bricman</h2>
+<img width="30%" src="/assets/img/profile.jpg" style="border-radius: 50%;">
+<h2>Johannes Hagspiel</h2>
 </center>
 
 > **Note**: I'm moving my work to a different space. Read more [here](/reflections/near-future-plans).
@@ -16,44 +16,15 @@ Outside thoughtware, I'm currently learning Chinese and representational drawing
 
 ### software projects [(see all)](/software-projects)
 
-
-
-### recent writing [(see all)](/reflections)
-
 <div class="posts" id="Blog">
     <ul>
-        {% assign reflections = site.reflections | sort: 'age' | reverse %}
-        {% for reflection in reflections limit:10 %}
-
-        {% assign age_split = reflection.age | round: 2 | split: "." %}
-        {% assign integral = age_split[0] %}
-        {% assign fractional = age_split[1] | append: "00" | truncate: 2, "" %}
+        {% assign software-projects = site.software-projects | sort | reverse %}
+        {% for software-project in software-projects limit:10 %}
 
         <li>
-            <a href="{{ site.baseurl }}{{ reflection.url }}">{{ reflection.title }}</a>{{integral}}.{{fractional}}&#160;YRS
+            <div style="font-weight: normal"><a href="{{ site.baseurl }}{{ software-project.url }}">{{ software-project.title | downcase }}</a>: {{ software-project.description | downcase }}</div>
         </li>
         {% endfor %}
     </ul>
 
 </div>
-
-### recent projects [(see all)](/thoughtware)
-
-<div class="posts" id="Blog">
-    <ul>
-        {% assign tools = site.thoughtware | sort | reverse %}
-        {% for tool in tools limit:10 %}
-
-        <li>
-            <div style="font-weight: normal"><a href="{{ site.baseurl }}{{ tool.url }}">{{ tool.title | downcase }}</a>: {{ tool.description | downcase }}</div>
-        </li>
-        {% endfor %}
-    </ul>
-
-</div>
-
-### miscellaneous
-
-- [**bookshelf**](/bookshelf): what I've been reading
-- [**infinite skills**](/infinite-skills): what I'm pursuing outside thoughtware
-- [**blogroll**](/blogroll.opml): feeds I follow

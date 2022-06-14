@@ -83,10 +83,3 @@ defaults:
 relative_links:
   enabled:     true
   collections: false
-
-feed:
-  collections:
-    reflections:
-      path: "/reflections/feed.xml"
-    thoughtware:
-      path: "/thoughtware/feed.xml"
