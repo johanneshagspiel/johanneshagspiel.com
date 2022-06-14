@@ -3,7 +3,7 @@ title: Johannes Hagspiel
 description: A personal website.
 googlewebfonts: Space+Grotesk:wght@400;500;700
 lang: en-US
-data-theme: dark # default theme "dark" | "light"
+data-theme: light # default theme "dark" | "light"
 
 # URL settings
 url: "https://johanneshagspiel.github.io/"
