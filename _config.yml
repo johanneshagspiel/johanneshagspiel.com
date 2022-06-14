@@ -38,19 +38,12 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-relative-links
-  - jekyll-feed
   - jekyll-redirect-from
 
 collections:
   pages:
     output: true
     permalink: /:name
-  reflections:
-    output: true
-    permalink: /reflections/:slug
-  thoughtware:
-    output: true
-    permalink: /thoughtware/:slug
   software-projects:
     output: true
     permalink: /software-projects/:slug
