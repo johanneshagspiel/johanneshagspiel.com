@@ -2,9 +2,7 @@
 layout: page
 ---
 
-## software-projects 
-
-
+## software projects 
 
 <div class="posts" id="Blog">
     <ul>
@@ -15,6 +13,4 @@ layout: page
         </li>
         {% endfor %}
     </ul>
-
 </div>
-
