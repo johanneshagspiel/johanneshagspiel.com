@@ -9,7 +9,7 @@ published: True
 
 ## Apache Spark Scripts ([repository](git@github.com:johanneshagspiel/apache-spark-scripts.git))
 
-| tl;dr  |
+| Summary  |
 | -------------------------------------------------- |
 | ✨ A collection of Apache Spark scripts used to get familiar with the basics of batch processing of big data. |
 

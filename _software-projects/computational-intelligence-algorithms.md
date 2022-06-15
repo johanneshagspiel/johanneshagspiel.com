@@ -9,7 +9,7 @@ published: True
 
 ## Computational Intelligence Algorithms ([repository](https://github.com/johanneshagspiel/computational-intelligence-algorithms))
 
-| tl;dr  |
+| Summary  |
 | -------------------------------------------------- |
 | 🧠 A collection of implementations of various computational intelligence algorithms. "Computational intelligence" as a field is at the intersection of artificial intelligence, machine learning and computer science techniques. A computational intelligence algorithm is an algorithm that learns to solve problems from observations (data) in a biologically inspired way. |
 

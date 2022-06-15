@@ -9,7 +9,7 @@ published: True
 
 ## Haskell JQ Recreation ([repository](https://github.com/johanneshagspiel/haskell-jq-recreation))
 
-| tl;dr  |
+| Summary  |
 | -------------------------------------------------- |
 | ✂️ A recreation of the JSON processor [jq](https://stedolan.github.io/jq/) in Haskell. |
 

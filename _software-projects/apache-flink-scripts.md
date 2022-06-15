@@ -9,7 +9,7 @@ published: True
 
 ## Apache Flink Scripts ([repository](https://github.com/johanneshagspiel/apache-flink-scripts))
 
-| tl;dr  |
+| Summary  |
 | -------------------------------------------------- |
 | 🐿️ A collection of Apache Flink scripts used to get familiar with the basics of stream processing of big data. |
 

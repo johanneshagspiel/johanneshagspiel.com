@@ -10,7 +10,7 @@ layout: page
 
 > **Note**: Test
 
-Test 🇦🇹
+Test 
 
 ### software projects [(see all)](/software-projects)
 
