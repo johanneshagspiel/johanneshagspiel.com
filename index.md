@@ -27,6 +27,21 @@ Test
 
 </div>
 
+### writing [(see all)](/writing)
+
+<div class="posts" id="Blog">
+    <ul>
+        {% assign writings = site.writing | sort | reverse %}
+        {% for writing in writings limit:10 %}
+
+        <li>
+            <div style="font-weight: normal"><a href="{{ site.baseurl }}{{ writing.url }}">{{ writing.title | downcase }}</a>: {{ writing.description | downcase }}</div>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
 ### miscellaneous
 
 - [**bookshelf**](/bookshelf): 📚 a collection of the books I have read
+- [**playlist**](/playlist): 🎧 a playlist of the podcasts I listen to

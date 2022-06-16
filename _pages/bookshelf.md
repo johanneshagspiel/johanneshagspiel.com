@@ -3,18 +3,6 @@ layout: page
 ---
 ## Bookshelf
 
-Those are the books I've read at least in part since the somewhat
-arbitrary moment of getting a reMarkable tablet, as it marked a big change
-in my reading habits. Even if I'm reading on e-ink, I love to wander
-around physical libraries in search for titles. I'm reading for three
-main reasons: to be inspired, to be mindblown, and to be entertained. Bold
-entries are all-time favorites.
-
-<div class="top-pad"><blockquote class="quoteback" darkmode="" data-title="Cloud Cuckoo Land" data-author=" Anthony Doerr" cite="https://www.anthonydoerr.com/books/cloud-cuckoo-land">
-Each of these books, child, is a door, a gateway to another place and time. You have your whole life in front of you, and for all of it, you'll have this. It will be enough, don't you think?<br>
-<footer> Anthony Doerr<cite> <a href="https://www.anthonydoerr.com/books/cloud-cuckoo-land">https://www.anthonydoerr.com/books/cloud-cuckoo-land</a></cite></footer>
-</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script></div>
-
 - The Dark Forest, Cixin Liu
 - The Three-Body Problem, Cixin Liu
 - Dune Messiah, Frank Herbert
@@ -25,8 +13,97 @@ Each of these books, child, is a door, a gateway to another place and time. You 
 - A Memory Called Empire, Arkady Martine
 - Fugitive Telemetry, Martha Wells
 - The Wisdom of Crowds, Joe Abercrombie
-- Arm of the Sphinx, Josiah Bancroft
+- The Hod King, Josiah Bancroft
 - A Crown of Swords, Robert Jordan
 - Lord of Chaos, Robert Jordan
 - The Fires of Heaven, Robert Jordan
--
+- The Shadow Rising, Robert Jordan
+- The Dragon Reborn, Robert Jordan
+- The Great Hunt, Robert Jordan
+- Persepolis Rising, James S. A. Corey
+- Provenance, Ann Leckie
+- Babylon's Ashes, James S. A. Corey
+- Nemesis Games, James S. A. Corey
+- Cibola Burn, James S. A. Corey
+- Morning Star, Pierce Brown
+- Golden Son, Pierce Brown
+- Red Rising, Pierce Brown
+- The Fires of Vengeance, Evan Winter
+- The Burning God, R. F. Kuang
+- Abaddon's Gate, James S. A. Corey
+- Caliban's War, James S. A. Corey
+- The Eye of the World, Robert Jordan
+- Leviathan Wakes, James S. A. Corey
+- The Rage of Dragons, Evan Winter
+- Network Effect, Martha Wells
+- Exit Strategy, Martha Wells
+- Rogue Protocol, Martha Wells
+- Artificial Condition, Martha Wells
+- All Systems Red, Martha Wells
+- The Trouble with Peace, Joe Abercrombie
+- A Little Hatred, Joe Abercrombie
+- The Republic of Thieves, Scott Lynch
+- Red Seas Under Red Skies, Scott Lynch
+- The Consuming Fire, John Scalzi
+- The Last Emperox, Johan Scalzi
+- Shorefall, Robert Jackson Bennett
+- Rhythm of War, Brandon Sanderson
+- Dawnshard, Brandon Sanderson
+- Foundryside, Robert Jackson Bennett
+- The Raven Tower, Ann Leckie
+- The Stone Sky, N. K. Jemisin
+- The Obelisk Gate, N. K. Jemisin
+- The Fith Season, N. K. Jemisin
+- Salvation, Peter F. Hamilton
+- The Dragon Republic, R. F. Kuang
+- The Poppy War, R. F. Kuang
+- Last Argument of Kings, Joe Abercrombie
+- Children of Ruin, Adrian Tchaikovsky
+- Jade War, Fonda Lee
+- Jade City, Fonda Lee
+- The Lies of Locke Lamora, Scott Lynch
+- The Human, Neal Asher
+- The Warship, Neal Asher
+- The Soldier, Neal Asher
+- Children of Time, Adrian Tchaikovsky
+- Say Nothing, Patrick Radden Keefe
+- Before They Are Hanged, Joe Abercrombie
+- The Blade Itself, Joe Abercrombie 
+- The Burning White, Brent Weeks
+- Arm of the Sphinx, Josiah Bancroft
+- Senlin Ascends, Josiah Bancroft
+- Edgedancer, Brandon Sanderson
+- An Echo of Things To Come, James Islington
+- The Blood Mirror, Brent Weeks
+- The Shadow Of What Was Lost, James Islington
+- The Light Of All That Falls
+- The Broken Eye, Brent Weeks
+- The Blinding Knife, Brent Weeks
+- The Black Prism, Brent Weeks
+- Elantris, Brandon Sanderson
+- Arcanum Unbounded, Brandon Sanderson
+- Mistborn Secret History, Brandon Sanderson
+- The Bands of Mourning, Brandon Sanderson
+- Shadows of Self, Brandon Sanderson
+- The Alloy of Law, Brandon Sanderson
+- The Hero of Ages, Brandon Sanderson
+- The Well of Ascension, Brandon Sanderson
+- The Final Empire, Brandon Sanderson
+- A Brightness Long Ago, Guy Gavriel Kay
+- Middlegame, Seanan McGuire
+- Skyward, Brandon Sanderson
+- Oathbringer, Brandon Sanderson
+- The Way of Kings, Brandon Sanderson
+- Fool Moon, Jim Butcher
+- Storm Front, Jim Butcher
+- The Ninth Rain, Jen Williams
+- Recursion, Blake Crouch
+- The City In The Middle Of The Night, Charlie Jane Anders
+- Words of Radiance, Brandon Sanderson
+- The Unspoken Name, A. K. Larkwood
+- Wrath of Empire, Brian McClellan
+- Sins of Empire, Brian McClellan
+- The Autumn Republic, Brian McClellan
+- The Crimson Campaign, Brian McClellan
+- Promise of Blood, Brian McClellan
+- Starsight, Brandon Sanderson

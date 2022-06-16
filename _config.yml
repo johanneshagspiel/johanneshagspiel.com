@@ -3,11 +3,11 @@ title: Johannes Hagspiel
 description: A personal website.
 googlewebfonts: Space+Grotesk:wght@400;500;700
 lang: en-US
-data-theme: light # default theme "dark" | "light"
+data-theme: dark # default theme "dark" | "light"
 
 # URL settings
-url: "https://johanneshagspiel.github.io/"
-permalink: "https://johanneshagspiel.github.io/"
+url: "https://johanneshagspiel.com/"
+permalink: "https://johanneshagspiel.com/"
 permalink: pretty 
 
 
@@ -47,6 +47,9 @@ collections:
   software-projects:
     output: true
     permalink: /software-projects/:slug
+  writing:
+    output: true
+    permalink: /writing/:slug
   
 defaults:
   -
@@ -72,6 +75,12 @@ defaults:
       type: "software-projects"
     values:
       layout: "software-projects"
+  -
+    scope:
+      path: ""
+      type: "writing"
+    values:
+      layout: "writing"
 
 relative_links:
   enabled:     true
