@@ -41,6 +41,21 @@ Test
     </ul>
 </div>
 
+### websites [(see all)](/websites)
+
+<div class="posts" id="Blog">
+    <ul>
+        {% assign websites = site.websites | sort | reverse %}
+        {% for website in websites limit:10 %}
+
+        <li>
+            <div style="font-weight: normal"><a href="{{ site.baseurl }}{{ website.url }}">{{ website.title | downcase }}</a>: {{ website.description | downcase }}</div>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+
 ### miscellaneous
 
 [**bookshelf**](/bookshelf): 📚 a collection of the books I have read<br>

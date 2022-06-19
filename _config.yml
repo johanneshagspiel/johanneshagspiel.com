@@ -50,7 +50,10 @@ collections:
   writing:
     output: true
     permalink: /writing/:slug
-  
+  websites:
+    output: true
+    permalink: /websites/:slug
+
 defaults:
   -
     scope:
@@ -81,6 +84,12 @@ defaults:
       type: "writing"
     values:
       layout: "writing"
+  -
+    scope:
+      path: ""
+      type: "websites"
+    values:
+      layout: "website"
 
 relative_links:
   enabled:     true

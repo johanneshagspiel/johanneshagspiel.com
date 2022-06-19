@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<section>
+  <div>
+    <p>🔱&nbsp&nbsp<a href="/">home</a>&nbsp&nbsp<a href="/websites">back</a>&nbsp&nbsp<a href="/contact">contact</a></p>
+  </div>
+  {{ content }}
+</section>
+
+
+<center>
+  <div>
+    <br />
+    <a href="/contact"><button>reply by email</button></a>
+    <a
+      href="https://twitter.com/intent/tweet?text={{page.title | urlencode}}%0A%0A{{site.url}}{{page.url | urlencode}}"
+      ><button>tweet this</button></a
+    >
+    <br /><br />
+  </div>
+</center>
