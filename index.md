@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home_page
 ---
 
 <center>
@@ -43,5 +43,5 @@ Test
 
 ### miscellaneous
 
-- [**bookshelf**](/bookshelf): 📚 a collection of the books I have read
-- [**playlist**](/playlist): 🎧 a playlist of the podcasts I listen to
+[**bookshelf**](/bookshelf): 📚 a collection of the books I have read<br>
+[**playlist**](/playlist): 🎧 a playlist of the podcasts I listen to
