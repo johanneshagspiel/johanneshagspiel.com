@@ -53,6 +53,9 @@ collections:
   websites:
     output: true
     permalink: /websites/:slug
+  scripts-exercises:
+    output: true
+    permalink: /scripts-exercises/:slug
 
 defaults:
   -
@@ -90,6 +93,12 @@ defaults:
       type: "websites"
     values:
       layout: "website"
+  -
+    scope:
+      path: ""
+      type: "scripts-exercises"
+    values:
+      layout: "scripts-exercises"
 
 relative_links:
   enabled:     true

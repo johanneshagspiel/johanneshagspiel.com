@@ -1,5 +1,5 @@
 ---
-layout: software-project
+layout: scripts-exercises
 title: JPacman Test Suite
 description: "🟡 A test-suite created for JPacman"
 published: True

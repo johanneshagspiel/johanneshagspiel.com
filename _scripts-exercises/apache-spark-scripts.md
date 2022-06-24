@@ -1,5 +1,5 @@
 ---
-layout: software-project
+layout: scripts-exercises
 title: Apache Spark Scripts
 description: "✨ A collection of Apache Spark scripts"
 published: True

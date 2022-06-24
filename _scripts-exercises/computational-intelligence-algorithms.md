@@ -1,5 +1,5 @@
 ---
-layout: software-project
+layout: scripts-exercises
 title: Computational Intelligence Algorithms
 description: "🧠 A collection of computational intelligence algorithms"
 published: True

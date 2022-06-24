@@ -1,5 +1,5 @@
 ---
-layout: software-project
+layout: scripts-exercises
 title: Unix Scripts
 description: "📜 A collection of bash scripts"
 published: True

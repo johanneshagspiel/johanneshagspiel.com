@@ -1,5 +1,5 @@
 ---
-layout: software-project
+layout: scripts-exercises
 title: Functional Programming Scripts
 description: "𝛌 A collection of Scala scripts"
 published: True

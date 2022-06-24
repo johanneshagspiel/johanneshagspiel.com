@@ -1,5 +1,5 @@
 ---
-layout: software-project
+layout: scripts-exercises
 title: Apache Flink Scripts
 description: "🐿️ A collection of Apache Flink scripts"
 published: True
