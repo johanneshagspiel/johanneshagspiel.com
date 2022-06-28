@@ -15,7 +15,7 @@ Test
 ### software projects [(see all)](/software-projects)
 
 <div class="posts" id="Blog">
-    <ul>
+    <ul style="padding-left: 0em">
         {% assign software-projects = site.software-projects | sort | reverse %}
         {% for software-project in software-projects limit:10 %}
 
@@ -30,7 +30,7 @@ Test
 ### scripts & exercises [(see all)](/scripts-exercises)
 
 <div class="posts" id="Blog">
-    <ul>
+    <ul style="padding-left: 0em">
         {% assign scripts-exercises = site.scripts-exercises | sort | reverse %}
         {% for script-exercise in scripts-exercises limit:10 %}
 
@@ -45,7 +45,7 @@ Test
 ### writing [(see all)](/writing)
 
 <div class="posts" id="Blog">
-    <ul>
+    <ul style="padding-left: 0em">
         {% assign writings = site.writing | sort | reverse %}
         {% for writing in writings limit:10 %}
 
@@ -59,19 +59,26 @@ Test
 ### websites [(see all)](/websites)
 
 <div class="posts" id="Blog">
-    <ul>
+    <ul style="padding-left: 0em">
         {% assign websites = site.websites | sort | reverse %}
         {% for website in websites limit:10 %}
 
         <li>
-            <div style="font-weight: normal"><a href="{{ site.baseurl }}{{ website.url }}">{{ website.title | downcase }}</a>: {{ website.description | downcase }}</div>
+            <div style="font-weight: normal"><a href="{{ site.baseurl }}{{ website.url }}">{{ website.title | downcase }}</a> {{ website.description | downcase }}</div>
         </li>
         {% endfor %}
     </ul>
 </div>
 
+### miscellaneous [(see all)](/miscellaneous)
 
-### miscellaneous
-
-[**bookshelf**](/bookshelf): 📚 a collection of the books I have read<br>
-[**playlist**](/playlist): 🎧 a playlist of the podcasts I listen to
+<div class="posts" id="Blog">
+    <ul style="padding-left: 0em">
+        {% assign miscellaneous = site.miscellaneous | sort | reverse %}
+        {% for misc in miscellaneous %}
+        <li>
+            <div style="font-weight: normal"><a href="{{ site.baseurl }}{{ misc.url }}">{{ misc.title | downcase }}</a>: {{ misc.description | downcase }}</div>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

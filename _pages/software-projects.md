@@ -5,7 +5,7 @@ layout: page
 ## software projects 
 
 <div class="posts" id="Blog">
-    <ul>
+    <ul style="padding-left: 0em">
         {% assign software-projects = site.software-projects | sort | reverse %}
         {% for software-project in software-projects %}
         <li>

@@ -1,7 +1,7 @@
 ---
 layout: software-project
 title: G-Code Viewer
-description: "🖥️ A desktop application created in order to visualize the actions taken by a 3D-printer when executing a G-Code file"
+description: "🖥️ A desktop application to visualize G-Code"
 published: True
 ---
 

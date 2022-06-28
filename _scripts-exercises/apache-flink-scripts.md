@@ -5,7 +5,7 @@ description: "🐿️ A collection of Apache Flink scripts"
 published: True
 ---
 
-<img src="/assets/software-projects/apache-flink-scripts/apache_flink_logo.png" alt="Apache Flink Logo" width="30%">
+<img src="/assets/scripts-exercises/apache-flink-scripts/apache_flink_logo.png" alt="Apache Flink Logo" width="30%">
 
 ## Apache Flink Scripts ([repository](https://github.com/johanneshagspiel/apache-flink-scripts))
 

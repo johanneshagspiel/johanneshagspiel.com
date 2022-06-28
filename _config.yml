@@ -56,6 +56,9 @@ collections:
   scripts-exercises:
     output: true
     permalink: /scripts-exercises/:slug
+  miscellaneous:
+    output: true
+    permalink: /miscellaneous/:slug
 
 defaults:
   -
@@ -99,7 +102,13 @@ defaults:
       type: "scripts-exercises"
     values:
       layout: "scripts-exercises"
-
+  -
+    scope:
+      path: ""
+      type: "miscellaneous"
+    values:
+      layout: "miscellaneous"
+      
 relative_links:
   enabled:     true
   collections: false

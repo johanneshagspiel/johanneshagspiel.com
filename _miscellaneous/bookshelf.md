@@ -1,6 +1,10 @@
 ---
-layout: page
+layout: miscellaneous
+title: Bookshelf
+description: "📚 a collection of the books I have read"
+published: True
 ---
+
 ## Bookshelf
 
 - The Dark Forest, Cixin Liu

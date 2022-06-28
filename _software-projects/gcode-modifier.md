@@ -1,7 +1,7 @@
 ---
 layout: software-project
 title: G-Code Modifier
-description: "🛠️ A desktop application created in order to support the 3D printing of sustainable materials such as chalk via extrusion through a syringe"
+description: "🛠️ A desktop application for custom modification of G-Code"
 published: True
 ---
 

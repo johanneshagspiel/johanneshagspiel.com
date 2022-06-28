@@ -162,8 +162,10 @@ body {
 }
 
 li {
+  list-style-position: outside;
   text-align: left;
 }
+
 
 a {
   color: var(--link-color);
@@ -193,11 +195,12 @@ p {
 
 ul,
 ol {
-  margin: 1rem 0;
+  padding-left: 1em;
 }
 
 th,
 td {
+  color: var(--link-color);
   padding: 0.5rem;
   line-height: 1.2rem;
   border-style: solid;
@@ -229,9 +232,10 @@ pre {
 }
 
 code {
+  font-style: italic;
   margin: unset;
   padding: 0.1rem;
-  color: var(--light-text-color);
+  color: var(--dark-text-color);
 }
 
 pre code {

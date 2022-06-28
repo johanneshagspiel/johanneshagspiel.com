@@ -1,7 +1,7 @@
 ---
 layout: software-project
 title: Planet Painter
-description: "🌍 A desktop program developed to visualizing and quantifying through satellite imagery the impact of different kinds of interventions such as replacing cars with trees on the climate"
+description: "🌍 a desktop program to run ML models on satellite imagery"
 published: True
 ---
 

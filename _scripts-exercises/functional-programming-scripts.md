@@ -5,7 +5,7 @@ description: "𝛌 A collection of Scala scripts"
 published: True
 ---
 
-<img src= "/assets/software-projects/functional-programming-scripts/scala_logo.png" alt="Scala Logo" width="20%">
+<img src= "/assets/scripts-exercises/functional-programming-scripts/scala_logo.png" alt="Scala Logo" width="35%">
 
 ## Functional Programming Scripts ([repository](https://github.com/johanneshagspiel/functional-programming-scripts))
 

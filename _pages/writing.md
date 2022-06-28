@@ -5,7 +5,7 @@ layout: page
 ## writing 
 
 <div class="posts" id="Blog">
-    <ul>
+    <ul style="padding-left: 0em">
         {% assign writings = site.writing | sort | reverse %}
         {% for writing in writings %}
         <li>

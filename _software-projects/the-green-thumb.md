@@ -1,7 +1,7 @@
 ---
 layout: software-project
 title: The Green Thumb
-description: "🍏 A Java Client-server application to incentivize behavior that leads to less CO2 consumption"
+description: "🍏 an application to incentivize sustainable behavior"
 published: True
 ---
 

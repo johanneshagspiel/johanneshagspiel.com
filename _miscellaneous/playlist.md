@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: miscellaneous
+title: Playlist
+description: "🎧 a playlist of the podcasts I listen to"
+published: True
 ---
+
 ## Playlist
 
 - [Bloomberg Surveillance](https://podcasts.apple.com/us/podcast/bloomberg-surveillance/id296237493)
-- [Chapo Trap House](https://podcasts.apple.com/us/podcast/chapo-trap-house/id1097417804)
 - [Comedy Bang Bang: The Podcast](https://podcasts.apple.com/us/podcast/comedy-bang-bang-the-podcast/id316045799)
 - [The Daily](https://podcasts.apple.com/us/podcast/the-daily/id1200361736)
 - [Débat du jour](https://podcasts.apple.com/ph/podcast/d%C3%A9bat-du-jour/id1500236106?uo=4)

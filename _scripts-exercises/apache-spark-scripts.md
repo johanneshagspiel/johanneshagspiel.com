@@ -5,9 +5,9 @@ description: "✨ A collection of Apache Spark scripts"
 published: True
 ---
 
-<img src="/assets/software-projects/apache-spark-scripts/apache_spark_logo.png" alt="Apache Spark Logo" width="30%">
+<img src="/assets/scripts-exercises/apache-spark-scripts/apache_spark_logo.png" alt="Apache Spark Logo" width="30%">
 
-## Apache Spark Scripts ([repository](git@github.com:johanneshagspiel/apache-spark-scripts.git))
+## Apache Spark Scripts ([repository](https://github.com/johanneshagspiel/apache-spark-scripts))
 
 | Summary  |
 | -------------------------------------------------- |

@@ -1,7 +1,7 @@
 ---
 layout: software-project
 title: Immutable X Gateway
-description: "🛒 A program created in order to allow the user to engage with the \"Immutable X\" API in an simple and automated way"
+description: "🛒 A program to engage with the IMX blockchain"
 published: True
 ---
 
