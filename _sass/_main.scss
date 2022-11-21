@@ -1,3 +1,9 @@
+
+@font-face {
+  font-family: "LiberationSans";
+  src: url('../LiberationSans-Regular.ttf') format('ttf')
+}
+
 *,
 :after,
 :before {
@@ -154,7 +160,7 @@ html[data-theme="dark"] {
 }
 
 body {
-  font-family: "Space Grotesk", monospace;
+  font-family: "LiberationSans", Helvetica, sans-serif;
   text-rendering: optimizeLegibility;
   line-height: 1.75;
   color: var(--main-text-color);

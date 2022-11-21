@@ -7,6 +7,18 @@ published: True
 
 ## Bookshelf
 
+This is collection of all the books I have been reading and have kept track of ever since I purchased a [Tolino](https://mytolino.de/) eReader, which has greatly reinvigorated my reading habit. 
+
+- The Shadow of the Gods, John Gwynne
+- A Memory of Light, Robert Jordan & Brandon Sanderson
+- Towers of Midnight, Robert Jordan & Brandon Sanderson
+- The Gathering Storm, Robert Jordan & Brandon Sanderson
+- Knife of Dreams, Robert Jordan
+- Crossroads of Twilight, Robert Jordan
+- Snow Crash, Neal Stephenson
+- Leviathan Falls, James S. A. Corey
+- Tiamat's Wrath, James S. A. Corey
+- Death's End, Cixin Liu
 - The Dark Forest, Cixin Liu
 - The Three-Body Problem, Cixin Liu
 - Dune Messiah, Frank Herbert
