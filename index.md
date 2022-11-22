@@ -8,9 +8,9 @@ layout: home_page
 <h2>Johannes Hagspiel</h2>
 </center>
 
-> **Note**: Test
+> **Note**: I am currently looking for a job. If you think I would be a great match, [feel free to contact me!](/contact)
 
-Test 
+Hi there! I am Johannes Hagspiel, a software developer from Austria. I studied Computer Science at TU Delft and International Business Administration as well as Philosophy at Erasmus University Rotterdam. 
 
 ### software projects [(see all)](/software-projects)
 
