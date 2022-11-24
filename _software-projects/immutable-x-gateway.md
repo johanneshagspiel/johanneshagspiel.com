@@ -5,13 +5,15 @@ description: "🛒 A program to engage with the IMX blockchain"
 published: True
 ---
 
-<img src= "/assets/software-projects/immutablex-gateway/imx_gateway.JPG" alt="IMX Gateway Logo" width="50%">
+<img src= "/assets/software-project/immutablex-gateway/imx_gateway.JPG" alt="IMX Gateway Logo" width="50%">
 
 ## Immutable X Gateway ([repository](https://github.com/johanneshagspiel/immutablex-gateway))
 
 | Summary  |
 | -------------------------------------------------- |
 | 🛒 A program created in order to allow the user to engage with the "Immutable X" API in an simple and automated way. ["Immutable X"](https://www.immutable.com/) is a layer 2 protocol on the Ethereum blockchain that enables the user to trade NFTs instantaneously, with zero gas fees and in a carbon-neutral way. It also has an [open REST API](https://docs.x.immutable.com/reference) that empowers the user to programmatically interact with the blockchain to, for example look up all available sell orders for a particular NFT or create a trade. The "Immutable X Gateway" allows the user to engage with this open API in an easy, automated way.|
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&color=%23323330&labelColor=A6A9AA)
 
 ## Features
 
@@ -35,13 +37,15 @@ All of these tasks are parallelized and thus once all orders up to the current m
 
 ## Tools
 
-| Purpose                | Name                                                         |
-|------------------------|--------------------------------------------------------------|
-| Programming language   | [Python 3.10](https://www.python.org/)                       |
-| Dependency manager     | [Pipenv](https://pipenv.pypa.io/en/latest/)                  |
-| Version control system | [Git](https://git-scm.com/)                                  |
-| Testing framework      | [unittest](https://docs.python.org/3/library/unittest.html/) |
-| IMX SDK 		             | [imxpy](https://github.com/Dimfred/imxpy/)   |
+| Purpose                | Name                                                            |
+|------------------------|-----------------------------------------------------------------|
+| Programming language   | [Python 3.10](https://www.python.org/)                          |
+| Dependency manager     | [Pipenv](https://pipenv.pypa.io/en/latest/)                     |
+| Version control system | [Git](https://git-scm.com/)                                     |
+| Testing framework      | [unittest](https://docs.python.org/3/library/unittest.html/)    |
+| IMX SDK 		             | [imxpy](https://github.com/Dimfred/imxpy/)                  |
+| Data analysis library                            | [pandas](https://pandas.pydata.org/)  |
+| Relational database management system          | [MySQL](https://www.mysql.com/)         |
 
 ## Requirements
 

@@ -2,10 +2,10 @@
 layout: page
 ---
 
-## contact
+## Contact
 
-- **Email:** <a id="mlink" href="#">send me a message</a>
-- **Linkedin:** [lets connect](http://www.linkedin.com/in/johannes-hagspiel/)
+- **E-Mail:** <a id="mlink" href="#">send me a message</a>
+- **LinkedIn:** [let's connect](http://www.linkedin.com/in/johannes-hagspiel/)
 
 
 	<script>

@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## miscellaneous 
+## Miscellaneous 
 
 <div class="posts" id="Blog">
     <ul style="padding-left: 0em">

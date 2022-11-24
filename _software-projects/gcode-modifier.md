@@ -5,7 +5,7 @@ description: "🛠️ A desktop application for custom modification of G-Code"
 published: True
 ---
 
-<img src= "/assets/software-projects/gcode-modifier/gcode_modifier_logo.JPG" alt="G-Code Modifier Logo" width="20%">
+<img src= "/assets/software-project/gcode-modifier/gcode_modifier_logo.JPG" alt="G-Code Modifier Logo" width="20%">
 
 ## G-Code Modifier ([repository](https://github.com/johanneshagspiel/gcode-modifier))
 

@@ -5,7 +5,7 @@ description: "🔍 An updated version of the MalPaCA algorithm"
 published: True
 ---
 
-<img src= "/assets/software-projects/malpaca-seq/malpaca_seq_logo.JPG" alt="MalPaCA Seq+ Logo" width="35%">
+<img src= "/assets/software-project/malpaca-seq/malpaca_seq_logo.JPG" alt="MalPaCA Seq+ Logo" width="35%">
 
 ## MalPaCA Seq+ ([repository](https://github.com/johanneshagspiel/malpaca-seq))
 

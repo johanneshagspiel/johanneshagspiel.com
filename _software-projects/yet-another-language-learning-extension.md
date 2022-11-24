@@ -5,7 +5,7 @@ description: "🗃️ An extension create flashcards in the browser"
 published: True
 ---
 
-<img src="/assets/software-projects/yet-another-language-learning-extension/github_logo.png" alt="Yet Another Language Learning Extension Logo" width="20%"/>
+<img src="/assets/software-project/yet-another-language-learning-extension/github_logo.png" alt="Yet Another Language Learning Extension Logo" width="20%"/>
 
 ## Yet Another Language Learning Extension ([repository](https://github.com/johanneshagspiel/yet-another-language-learning-extension))
 

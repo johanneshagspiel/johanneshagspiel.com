@@ -1,11 +1,11 @@
 ---
-layout: scripts-exercises
+layout: software-project
 title: Functional Programming Scripts
 description: "𝛌 A collection of Scala scripts"
 published: True
 ---
 
-<img src= "/assets/scripts-exercises/functional-programming-scripts/scala_logo.png" alt="Scala Logo" width="35%">
+<img src= "/assets/software-project/functional-programming-scripts/scala_logo.png" alt="Scala Logo" width="35%">
 
 ## Functional Programming Scripts ([repository](https://github.com/johanneshagspiel/functional-programming-scripts))
 

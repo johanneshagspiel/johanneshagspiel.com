@@ -5,7 +5,7 @@ description: "🖥️ A desktop application to visualize G-Code"
 published: True
 ---
 
-<img src= "/assets/software-projects/gcode-viewer/gcode_viewer_logo.JPG" alt="G-Code Viewer Logo" width="20%">
+<img src= "/assets/software-project/gcode-viewer/gcode_viewer_logo.JPG" alt="G-Code Viewer Logo" width="20%">
 
 ## G-Code Viewer ([repository](https://github.com/johanneshagspiel/gcode-viewer))
 

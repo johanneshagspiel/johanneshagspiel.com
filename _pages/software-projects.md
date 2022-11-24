@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## software projects 
+## Software Projects 
 
 <div class="posts" id="Blog">
     <ul style="padding-left: 0em">

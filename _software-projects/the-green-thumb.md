@@ -5,7 +5,7 @@ description: "🍏 an application to incentivize sustainable behavior"
 published: True
 ---
 
-<img src= "/assets/software-projects/the-green-thumb/green_thumb_logo.png" alt="The Green Thumb Logo" width="25%">
+<img src= "/assets/software-project/the-green-thumb/green_thumb_logo.png" alt="The Green Thumb Logo" width="25%">
 
 ## The Green Thumb ([repository](https://github.com/johanneshagspiel/the-green-thumb))
 

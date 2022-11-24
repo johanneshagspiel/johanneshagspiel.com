@@ -5,7 +5,7 @@ description: "🌍 a desktop program to run ML models on satellite imagery"
 published: True
 ---
 
-<img src= "/assets/software-projects/planet-painter/planet_painter_logo.png" alt="Planet Painter Logo" width="35%">
+<img src= "/assets/software-project/planet-painter/planet_painter_logo.png" alt="Planet Painter Logo" width="35%">
 
 ## Planet Painter ([repository](https://github.com/johanneshagspiel/planet-painter))
 

@@ -1,11 +1,11 @@
 ---
-layout: scripts-exercises
+layout: software-project
 title: Apache Spark Scripts
 description: "✨ A collection of Apache Spark scripts"
 published: True
 ---
 
-<img src="/assets/scripts-exercises/apache-spark-scripts/apache_spark_logo.png" alt="Apache Spark Logo" width="30%">
+<img src="/assets/software-project/apache-spark-scripts/apache_spark_logo.png" alt="Apache Spark Logo" width="30%">
 
 ## Apache Spark Scripts ([repository](https://github.com/johanneshagspiel/apache-spark-scripts))
 

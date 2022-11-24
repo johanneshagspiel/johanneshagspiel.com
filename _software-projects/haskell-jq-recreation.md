@@ -5,7 +5,7 @@ description: "✂️ A recreation of the JSON processor jq in Haskell"
 published: True
 ---
 
-<img src="/assets/software-projects/haskell-jq-recreation/haskell_jq_recreation_logo.png" alt="Haskell JQ Recreation" width="30%">
+<img src="/assets/software-project/haskell-jq-recreation/haskell_jq_recreation_logo.png" alt="Haskell JQ Recreation" width="30%">
 
 ## Haskell JQ Recreation ([repository](https://github.com/johanneshagspiel/haskell-jq-recreation))
 

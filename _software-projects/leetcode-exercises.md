@@ -1,11 +1,11 @@
 ---
-layout: scripts-exercises
+layout: software-project
 title: LeetCode Exercises
 description: "🏋️‍♂️ An overview of the completed LeetCode Exercises"
 published: True
 ---
 
-<img src= "/assets/scripts-exercises/leetcode-exercises/leetcode_exercises.JPG" alt="LeetCode Logo" width="40%">
+<img src= "/assets/software-project/leetcode-exercises/leetcode_exercises.JPG" alt="LeetCode Logo" width="40%">
 
 ## LeetCode Exercises ([repository](https://github.com/johanneshagspiel/leetcode-exercises))
 
