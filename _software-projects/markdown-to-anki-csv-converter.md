@@ -55,7 +55,7 @@ Now you can run the main method and convert the Markdown files yourself.
 
 ## Licence
 
-This "Markdown-to-Anki-CSV Converter" script is published under the MIT licence, which can be found in the [LICENSE](LICENSE) file. 
+This "Markdown-to-Anki-CSV Converter" script is published under the MIT licence, which can be found in the [LICENSE](https://github.com/johanneshagspiel/markdown-to-anki-csv-converter/blob/main/LICENSE) file. 
 
 ## References
 

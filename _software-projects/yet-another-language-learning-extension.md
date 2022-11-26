@@ -78,7 +78,7 @@ To build the application yourself, you have to:
 
 ## Licence
 
-The "Yet Another Language Learning Extension" is published under the MIT licence, which can be found in the [LICENSE](LICENSE) file. 
+The "Yet Another Language Learning Extension" is published under the MIT licence, which can be found in the [LICENSE](https://github.com/johanneshagspiel/yet-another-language-learning-extension/blob/main/LICENSE) file. 
 
 ## References
 

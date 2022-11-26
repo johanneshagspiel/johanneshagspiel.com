@@ -47,7 +47,7 @@ It is assumed that the users is using Windows.
 
 This raytracer was created together with:
 
-- [Marko Matušovič](https://github.com/MMarko333)
+- Marko Matušovič
 - [Emre Ozkan](https://github.com/emre6943)
 - [Omar Sheasha](https://github.com/osheasha)
 - [Stef Rasing](https://github.com/stefstef00)
@@ -55,7 +55,7 @@ This raytracer was created together with:
 
 ## Licence
 
-This "OpenGL Raytracer" is published under the MIT licence, which can be found in the [LICENSE](LICENSE) file. For this repository, the terms laid out there shall not apply to any individual that is currently enrolled at a higher education institution as a student. Those individuals shall not interact with any other part of this repository besides this README in any way by, for example cloning it or looking at its source code or have someone else interact with this repository in any way.
+This "OpenGL Raytracer" is published under the MIT licence, which can be found in the [LICENSE](https://github.com/johanneshagspiel/opengl-raytracer/blob/main/LICENSE) file. For this repository, the terms laid out there shall not apply to any individual that is currently enrolled at a higher education institution as a student. Those individuals shall not interact with any other part of this repository besides this README in any way by, for example cloning it or looking at its source code or have someone else interact with this repository in any way.
 
 ## References
 

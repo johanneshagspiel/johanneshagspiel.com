@@ -28,7 +28,7 @@ This repository contains:
 
 ## Licence
 
-These "LeetCode Exercises" are published under the MIT licence, which can be found in the [LICENSE](LICENSE) file.
+These "LeetCode Exercises" are published under the MIT licence, which can be found in the [LICENSE](https://github.com/johanneshagspiel/leetcode-exercises/blob/main/LICENSE) file.
 
 ## References
 

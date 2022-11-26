@@ -44,7 +44,7 @@ Then, you can install all the dependencies with this command:
 
 ## Licence
 
-The "MATRX Agent" is published under the MIT licence, which can be found in the [LICENSE](LICENSE) file. For this repository, the terms laid out there shall not apply to any individual that is currently enrolled at a higher education institution as a student. Those individuals shall not interact with any other part of this repository besides this README in any way by, for example cloning it or looking at its source code or have someone else interact with this repository in any way.
+The "MATRX Agent" is published under the MIT licence, which can be found in the [LICENSE](https://github.com/johanneshagspiel/matrx-agent/blob/main/LICENSE) file. For this repository, the terms laid out there shall not apply to any individual that is currently enrolled at a higher education institution as a student. Those individuals shall not interact with any other part of this repository besides this README in any way by, for example cloning it or looking at its source code or have someone else interact with this repository in any way.
 
 ## References
 

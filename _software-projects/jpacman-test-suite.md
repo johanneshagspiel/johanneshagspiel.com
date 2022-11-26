@@ -48,7 +48,7 @@ It is assumed that both a [Java JDK](https://openjdk.org/) and an IDE such as [I
 
 ## Contributors
 
-The authors of the "JPacman" game can be found [AUTHORS](AUTHORS.md) file and the repository of the original source code can be found [here](https://github.com/SERG-Delft/jpacman-framework).
+The authors of the "JPacman" game can be found [AUTHORS](https://github.com/johanneshagspiel/jpacman-test-suite/blob/master/AUTHORS.md) file and the repository of the original source code can be found [here](https://github.com/SERG-Delft/jpacman-framework).
 
 This test suite was created together with:
 

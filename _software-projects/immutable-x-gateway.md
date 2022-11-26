@@ -13,8 +13,6 @@ published: True
 | -------------------------------------------------- |
 | 🛒 A program created in order to allow the user to engage with the "Immutable X" API in an simple and automated way. ["Immutable X"](https://www.immutable.com/) is a layer 2 protocol on the Ethereum blockchain that enables the user to trade NFTs instantaneously, with zero gas fees and in a carbon-neutral way. It also has an [open REST API](https://docs.x.immutable.com/reference) that empowers the user to programmatically interact with the blockchain to, for example look up all available sell orders for a particular NFT or create a trade. The "Immutable X Gateway" allows the user to engage with this open API in an easy, automated way.|
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&color=%23323330&labelColor=A6A9AA)
-
 ## Features
 
 With the "Immutable X Gateway", the user can:
@@ -88,7 +86,7 @@ Lastly, user information need to be added at three different locations:
 
 ## Licence
 
-The "Immutable X Gateway" is published under the MIT licence, which can be found in the [LICENSE](LICENSE) file.
+The "Immutable X Gateway" is published under the MIT licence, which can be found in the [LICENSE](https://github.com/johanneshagspiel/immutablex-gateway/blob/main/LICENSE) file.
 
 ## References
 

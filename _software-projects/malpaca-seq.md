@@ -30,13 +30,13 @@ In particular:
   - transition graphs that reveal how different segments of the same connection are clustered together differently in subsequent experiments
 
 <p align="center">
-	<img src= "/assets/software-projects/malpaca-seq//example_transition_graph.png" alt="Example Transition Graph" height="20%">
+	<img src= "/assets/software-project/malpaca-seq//example_transition_graph.png" alt="Example Transition Graph" height="20%">
 </p>
 
   - graphs detailing the make-up of each clusters in terms of label or application category if such information is provided through prior network analysis with [NFStream](https://github.com/nfstream/nfstream). 
 
 <p align="center">
-	<img src= "/assets/software-projects/malpaca-seq//example_detailed_labels_overview.png" alt="Example Detailed Labels Overview Graph" height="25%">
+	<img src= "/assets/software-project/malpaca-seq//example_detailed_labels_overview.png" alt="Example Detailed Labels Overview Graph" height="25%">
 </p>
 
 
@@ -83,7 +83,7 @@ The original author of "MalPaCA" was [Azqa Nadeem](https://github.com/azqa) and 
 
 ## Licence
 
-The original "MalPaCA" framework was published under the MIT license, which can be found in the [License](LICENSE) file. 
+The original "MalPaCA" framework was published under the MIT license, which can be found in the [LICENSE](https://github.com/johanneshagspiel/malpaca-seq/blob/master/LICENSE) file. 
 
 **If you use MalPaCA in a scientific work, consider citing the following paper:**
 

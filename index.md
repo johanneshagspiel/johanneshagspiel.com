@@ -65,6 +65,11 @@ Hi there! I am Johannes Hagspiel, a software developer from Austria. I studied C
 🔍 [MalPaCA Seq+](/software-projects/malpaca-seq): an updated version of the MalPaCA algorithm that creates, based on the network flow of a software, a behavioral profile representing its actual capabilities. 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=%23323330&labelColor=A6A9AA) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&color=%23323330&labelColor=A6A9AA) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=%23323330&labelColor=A6A9AA) ![HDBSCAN](https://img.shields.io/badge/HDBSCAN-%2300599C.svg?style=for-the-badge&logo=HDBSCAN&color=%23323330&labelColor=A6A9AA) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&color=%23323330&labelColor=A6A9AA)
+<hr>
+
+🧠 [Computational Intelligence Algorithms](/software-projects/computational-intelligence-algorithms): a collection of implementations of various computational intelligence algorithms.
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=data:image/png;base64,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&color=%23323330&labelColor=A6A9AA) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&color=%23323330&labelColor=A6A9AA) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&color=%23323330&labelColor=A6A9AA) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&color=%23323330&labelColor=A6A9AA) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=%23323330&labelColor=A6A9AA)
 
 ### Big Data
 
@@ -113,16 +118,31 @@ Hi there! I am Johannes Hagspiel, a software developer from Austria. I studied C
 
 [Baumschlager Eberle](/writing/baumschlager-eberle) 🏠 a strategic business plan.
 
-[Critical Success Factors](/writing/critical-success-factors) 🏦 of german retail banks
+![Business Plan](https://img.shields.io/badge/Business_Plan-%23F05033.svg?style=for-the-badge&color=%23000041) ![Architecture Industry](https://img.shields.io/badge/Architecture_Industry-%23F05033.svg?style=for-the-badge&color=%23000041)
+![SWOT Analysis](https://img.shields.io/badge/SWOT_Analysis-%23F05033.svg?style=for-the-badge&color=%23000041) ![SEPTEmber Analysis](https://img.shields.io/badge/SEPTEmber_Analysis-%23F05033.svg?style=for-the-badge&color=%23000041) ![Five Forces](https://img.shields.io/badge/Five_Forces-%23F05033.svg?style=for-the-badge&color=%23000041) ![Stakeholder Analysis](https://img.shields.io/badge/Stakeholder_Analysis-%23F05033.svg?style=for-the-badge&color=%23000041) ![Market Profile and Segmentation](https://img.shields.io/badge/Market_Profile_and_Segmentation-%23F05033.svg?style=for-the-badge&color=%23000041)
+<hr>
 
-[The Culture Industry](/writing/culture-industry) 📺 on the dialectic of enlightenment
+[Critical Success Factors](/writing/critical-success-factors) 🏦 of german retail banks.
 
-[Goal Gradient Hypothesis](/writing/goal-gradient-hypothesis) 🥅 on the goal gradient hypothesis
+![Critical Success Factors](https://img.shields.io/badge/Critical_Success_Factors-%23F05033.svg?style=for-the-badge&color=%23000041) ![Semi-structured Interview ](https://img.shields.io/badge/Semi%20structured_Interview-%23F05033.svg?style=for-the-badge&color=%23000041) ![Stationary Distribution](https://img.shields.io/badge/Stationary_Distribution-%23F05033.svg?style=for-the-badge&color=%23000041) ![German Retail Banks](https://img.shields.io/badge/German_Retail_Banks-%23F05033.svg?style=for-the-badge&color=%23000041) ![Digital Transformation](https://img.shields.io/badge/Digital_Transformation-%23F05033.svg?style=for-the-badge&color=%23000041) ![Covid 19](https://img.shields.io/badge/Covid_19-%23F05033.svg?style=for-the-badge&color=%23000041) ![Customer Behavior](https://img.shields.io/badge/Customer_Behavior-%23F05033.svg?style=for-the-badge&color=%23000041)
+<hr>
 
-[MalPaCA](/writing/malpaca) 👨‍👩‍👦‍👦 on the influence of sequence length on clustering
+[The Culture Industry](/writing/culture-industry) 📺 on the dialectic of enlightenment.
+
+![The Culture Industry](https://img.shields.io/badge/The_Culture_Industry-%23F05033.svg?style=for-the-badge&color=%23000041) ![Dialectic of Enlightenment](https://img.shields.io/badge/Dialectic_of_Enlightenment-%23F05033.svg?style=for-the-badge&color=%23000041) ![Totalitarianism](https://img.shields.io/badge/Totalitarianism-%23F05033.svg?style=for-the-badge&color=%23000041) ![Capitalism](https://img.shields.io/badge/Capitalism-%23F05033.svg?style=for-the-badge&color=%23000041)
+<hr> 
+
+[Goal Gradient Hypothesis](/writing/goal-gradient-hypothesis) 🥅 on the goal gradient hypothesis.
+
+![Meta Analysis](https://img.shields.io/badge/Meta_Analysis-%23F05033.svg?style=for-the-badge&color=%23000041) ![Experiment](https://img.shields.io/badge/Experiment-%23F05033.svg?style=for-the-badge&color=%23000041) ![Loyalty Program](https://img.shields.io/badge/Loyalty_Program-%23F05033.svg?style=for-the-badge&color=%23000041) ![Marketing](https://img.shields.io/badge/Marketing-%23F05033.svg?style=for-the-badge&color=%23000041)
+<hr> 
+
+[MalPaCA](/writing/malpaca) 👨‍👩‍👦‍👦 on the influence of sequence length on clustering.
+
+![Unsupervised clustering](https://img.shields.io/badge/Unsupervised_clustering-%23F05033.svg?style=for-the-badge&color=%23000041) ![Sequence length](https://img.shields.io/badge/sequence_length-%23F05033.svg?style=for-the-badge&color=%23000041) ![Network flow](https://img.shields.io/badge/network_flow-%23F05033.svg?style=for-the-badge&color=%23000041) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23F05033.svg?style=for-the-badge&color=%23000041) ![Software behavioral profile](https://img.shields.io/badge/Software_behavioral_profile-%23F05033.svg?style=for-the-badge&color=%23000041) 
 
 ### Miscellaneous
 
-[playlist](/miscellaneous/playlist) 🎧 a playlist of the podcasts I listen to.
+[Playlist](/miscellaneous/playlist) 🎧 a playlist of the podcasts I listen to.
 
-[bookshelf](/miscellaneous//bookshelf) 📚 a collection of the books I have read.
+[Bookshelf](/miscellaneous//bookshelf) 📚 a collection of the books I have read.

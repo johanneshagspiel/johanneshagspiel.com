@@ -66,7 +66,7 @@ This template for this program was originally created by:
 
 ## Licence
 
-This JQ Haskell clone was originally published under the 3-Clause BSD License, which can be found in the [LICENSE](LICENSE) file. For this repository, the terms laid out there shall not apply to any individual that is currently enrolled at a higher education institution as a student. Those individuals shall not interact with any other part of this repository besides this README in any way by, for example cloning it or looking at its source code or have someone else interact with this repository in any way.
+This JQ Haskell clone was originally published under the 3-Clause BSD License, which can be found in the [LICENSE](https://github.com/johanneshagspiel/haskell-jq-recreation/blob/master/LICENSE) file. For this repository, the terms laid out there shall not apply to any individual that is currently enrolled at a higher education institution as a student. Those individuals shall not interact with any other part of this repository besides this README in any way by, for example cloning it or looking at its source code or have someone else interact with this repository in any way.
 
 ## References
 

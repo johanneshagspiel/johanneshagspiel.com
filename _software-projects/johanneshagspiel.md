@@ -29,7 +29,7 @@ My website contains:
 
 ## Licence
 
-The source code to my website "johanneshagspiel.com" is published under the MIT licence, which can be found in the [LICENSE](LICENSE) file.
+The source code to my website "johanneshagspiel.com" is published under the MIT licence, which can be found in the [LICENSE](https://github.com/johanneshagspiel/johanneshagspiel.github.io/blob/main/LICENSE) file.
 
 ## References
 

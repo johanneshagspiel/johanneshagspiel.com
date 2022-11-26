@@ -11,7 +11,7 @@ This bachelor thesis wants to address two problems: on the one hand, it strives 
 The strategy chosen to solve these two problems is intertwined: in order to understand why the “Culture Industry” negatively impacts human beings, it is necessary to understand every facet of it; from its relationship with power to how this negativity manifests itself in various domains. In order to achieve such a detailed understanding, the text is structured into seven chapters that each focus on one particular aspect of the “Culture Industry”:
 - Overview over “Dialectic of Enlightenment”: where general information about the authors, the creation of the book and each chapter is provided
 - Overview over the “Culture Industry”: where the idea of the “Culture Industry” is described in more detail
-- The Culture Industries Relationship with Totalitarianism and Capitalism	: where the works of Adorno and Smythe on the relationship between the “Culture Industry” and fascism and monopoly capitalism are discussed
+- The Culture Industries Relationship with Totalitarianism and Capitalism: where the works of Adorno and Smythe on the relationship between the “Culture Industry” and fascism and monopoly capitalism are discussed
 - The Impact of the “Culture Industry” on Aesthetics: where the effect of the “Culture Industry” on the fundamental concepts of aesthetic are outlined
 - Historical and Contemporary Evaluation & Impact: where the points of critique raised by Mrs. Sandkaulen and the “Cultural Marxist” theory are discussed
 - The “Culture Industry” in the 21st century: where the work of Amirhosein Khanizaji is used to describe the “Culture Industry” in the 21st century

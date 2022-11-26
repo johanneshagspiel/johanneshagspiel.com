@@ -47,4 +47,4 @@ Lastly, check that the new environment was installed correctly:
 
 ## Licence
 
-The "G-Code Viewer" is published under the MIT licence, which can be found in the [LICENSE](LICENSE) file.
+The "G-Code Viewer" is published under the MIT licence, which can be found in the [LICENSE](https://github.com/johanneshagspiel/gcode-viewer/blob/master/LICENSE) file.
