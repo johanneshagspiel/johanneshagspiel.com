@@ -10,7 +10,7 @@ layout: page
 
 	<script>
 		/* 1. define variables */
-		var me = "jhagspiel";
+		var me = "j.hagspiel";
 		var place = "inode.at";
 
 		/* 2. find email link to replace */
