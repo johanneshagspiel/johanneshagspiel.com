@@ -116,33 +116,33 @@ Hi there! I am Johannes Hagspiel, a software developer from Austria. I studied C
 
 ### Writing
 
-[Baumschlager Eberle](/writing/baumschlager-eberle): 🏠 a strategic business plan.
+🏠 [Baumschlager Eberle](/writing/baumschlager-eberle): a strategic business plan.
 
 ![Business Plan](https://img.shields.io/badge/Business_Plan-%23F05033.svg?style=for-the-badge&color=%23000041) ![Architecture Industry](https://img.shields.io/badge/Architecture_Industry-%23F05033.svg?style=for-the-badge&color=%23000041)
 ![SWOT Analysis](https://img.shields.io/badge/SWOT_Analysis-%23F05033.svg?style=for-the-badge&color=%23000041) ![SEPTEmber Analysis](https://img.shields.io/badge/SEPTEmber_Analysis-%23F05033.svg?style=for-the-badge&color=%23000041) ![Five Forces](https://img.shields.io/badge/Five_Forces-%23F05033.svg?style=for-the-badge&color=%23000041) ![Stakeholder Analysis](https://img.shields.io/badge/Stakeholder_Analysis-%23F05033.svg?style=for-the-badge&color=%23000041) ![Market Profile and Segmentation](https://img.shields.io/badge/Market_Profile_and_Segmentation-%23F05033.svg?style=for-the-badge&color=%23000041)
 <hr>
 
-[Critical Success Factors](/writing/critical-success-factors): 🏦 of german retail banks.
+🏦 [Critical Success Factors](/writing/critical-success-factors): of German retail banks.
 
 ![Critical Success Factors](https://img.shields.io/badge/Critical_Success_Factors-%23F05033.svg?style=for-the-badge&color=%23000041) ![Semi-structured Interview ](https://img.shields.io/badge/Semi%20structured_Interview-%23F05033.svg?style=for-the-badge&color=%23000041) ![Stationary Distribution](https://img.shields.io/badge/Stationary_Distribution-%23F05033.svg?style=for-the-badge&color=%23000041) ![German Retail Banks](https://img.shields.io/badge/German_Retail_Banks-%23F05033.svg?style=for-the-badge&color=%23000041) ![Digital Transformation](https://img.shields.io/badge/Digital_Transformation-%23F05033.svg?style=for-the-badge&color=%23000041) ![Covid 19](https://img.shields.io/badge/Covid_19-%23F05033.svg?style=for-the-badge&color=%23000041) ![Customer Behavior](https://img.shields.io/badge/Customer_Behavior-%23F05033.svg?style=for-the-badge&color=%23000041)
 <hr>
 
-[The Culture Industry](/writing/culture-industry): 📺 on the dialectic of enlightenment.
+📺 [The Culture Industry](/writing/culture-industry): on the dialectic of enlightenment.
 
 ![The Culture Industry](https://img.shields.io/badge/The_Culture_Industry-%23F05033.svg?style=for-the-badge&color=%23000041) ![Dialectic of Enlightenment](https://img.shields.io/badge/Dialectic_of_Enlightenment-%23F05033.svg?style=for-the-badge&color=%23000041) ![Totalitarianism](https://img.shields.io/badge/Totalitarianism-%23F05033.svg?style=for-the-badge&color=%23000041) ![Capitalism](https://img.shields.io/badge/Capitalism-%23F05033.svg?style=for-the-badge&color=%23000041)
 <hr> 
 
-[Goal Gradient Hypothesis](/writing/goal-gradient-hypothesis): 🥅 on the goal gradient hypothesis.
+🥅 [Goal Gradient Hypothesis](/writing/goal-gradient-hypothesis): on the goal gradient hypothesis.
 
 ![Meta Analysis](https://img.shields.io/badge/Meta_Analysis-%23F05033.svg?style=for-the-badge&color=%23000041) ![Experiment](https://img.shields.io/badge/Experiment-%23F05033.svg?style=for-the-badge&color=%23000041) ![Loyalty Program](https://img.shields.io/badge/Loyalty_Program-%23F05033.svg?style=for-the-badge&color=%23000041) ![Marketing](https://img.shields.io/badge/Marketing-%23F05033.svg?style=for-the-badge&color=%23000041)
 <hr> 
 
-[MalPaCA](/writing/malpaca) 👨‍👩‍👦‍👦 on the influence of sequence length on clustering.
+👨‍👩‍👦‍👦 [MalPaCA](/writing/malpaca): on the influence of sequence length on clustering.
 
 ![Unsupervised clustering](https://img.shields.io/badge/Unsupervised_clustering-%23F05033.svg?style=for-the-badge&color=%23000041) ![Sequence length](https://img.shields.io/badge/sequence_length-%23F05033.svg?style=for-the-badge&color=%23000041) ![Network flow](https://img.shields.io/badge/network_flow-%23F05033.svg?style=for-the-badge&color=%23000041) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23F05033.svg?style=for-the-badge&color=%23000041) ![Software behavioral profile](https://img.shields.io/badge/Software_behavioral_profile-%23F05033.svg?style=for-the-badge&color=%23000041) 
 
 ### Miscellaneous
 
-[Playlist](/miscellaneous/playlist) 🎧 a playlist of the podcasts I listen to.
+🎧 [Playlist](/miscellaneous/playlist): a playlist of the podcasts I listen to.
 
-[Bookshelf](/miscellaneous//bookshelf) 📚 a collection of the books I have read.
+📚 [Bookshelf](/miscellaneous//bookshelf); a collection of the books I have read.
