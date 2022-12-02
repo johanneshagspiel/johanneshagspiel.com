@@ -5,7 +5,7 @@ description: "🤖 A collaborative agent"
 published: True
 ---
 
-<img src= "/assets/software-project/matrx-agent/matrix_agent_logo.JPG" alt="MATRIX Agent Logo" width="35%">
+<img src= "/assets/software-project/matrx-agent/matrix_agent_logo.JPG" alt="MATRIX Agent Logo" width="35%" style="display: block; margin: 0 auto">
 
 ## MATRX Agent ([repository](https://github.com/johanneshagspiel/matrx-agent))
 

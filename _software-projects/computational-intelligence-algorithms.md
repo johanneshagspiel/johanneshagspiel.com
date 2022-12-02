@@ -5,7 +5,7 @@ description: "🧠 A collection of algorithms"
 published: True
 ---
 
-<img src= "/assets/software-project/computational-intelligence-algorithms/computational_intelligence_algorithms_logo.JPG" alt="Computational Intelligence Algorithms Logo" width="20%">
+<img src= "/assets/software-project/computational-intelligence-algorithms/computational_intelligence_algorithms_logo.JPG" alt="Computational Intelligence Algorithms Logo" width="20%"  style="display: block; margin: 0 auto">
 
 ## Computational Intelligence Algorithms ([repository](https://github.com/johanneshagspiel/computational-intelligence-algorithms))
 

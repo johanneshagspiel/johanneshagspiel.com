@@ -5,7 +5,7 @@ description: "🟡 A test-suite created for JPacman"
 published: True
 ---
 
-<img src= "/assets/software-project/jpacman-test-suite/jpacman_logo.png" alt="JPacman Test Suite Logo" width="20%">
+<img src= "/assets/software-project/jpacman-test-suite/jpacman_logo.png" alt="JPacman Test Suite Logo" width="20%" style="display: block; margin: 0 auto">
 
 ## JPacman Test Suite ([repository](https://github.com/johanneshagspiel/jpacman-test-suite))
 

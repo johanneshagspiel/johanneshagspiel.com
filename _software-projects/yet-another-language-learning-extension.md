@@ -5,13 +5,13 @@ description: "🗃️ An extension create flashcards in the browser"
 published: True
 ---
 
-<img src="/assets/software-project/yet-another-language-learning-extension/github_logo.png" alt="Yet Another Language Learning Extension Logo" width="20%"/>
+<img src="/assets/software-project/yet-another-language-learning-extension/github_logo.png" alt="Yet Another Language Learning Extension Logo" width="20%" style="display: block; margin: 0 auto"/>
 
 ## Yet Another Language Learning Extension ([repository](https://github.com/johanneshagspiel/yet-another-language-learning-extension))
 
 | Summary  |
 | -------------------------------------------------- |
-| 🗃️ A Google Chrome extension to translate words and create flashcards in the browser. The purpose of this application is to help save time with the time-consuming and boring parts of learning a new language such as looking up a word in a dictionary, checking whether it already is in ones vocabulary list and then creating a flash card for it. "Yet Another Language Learning Extension" combines all these activities in one simple Google Chrome extension that automates parts of it like checking for duplicates. |
+| 🗃️ A Google Chrome extension to translate words and create flashcards in the browser. The purpose of this application is to help save time with the time-consuming and boring parts of learning a new language such as looking up a word in a dictionary, checking whether it already is in ones vocabulary list and then creating a flash card for it. "Yet Another Language Learning Extension" (YALLE) combines all these activities in one simple Google Chrome extension that automates parts of it like checking for duplicates. |
 
 ## Features  
 
@@ -29,13 +29,13 @@ published: True
 
 YALLE is very much still under development and not bug-free and without any styling. However, its baseline functionality as outlined above already works. The main points of future improvement are: 
 
-- [ ] Optimize the React components to minimize re-renders
-- [ ] Sanity check user input
-- [ ] Style the entire application with CSS 
-- [ ] Support more storage options such as Google docs
-- [ ] Support more dictionaries with an API such as the one provided by the Oxford Dictionary
-- [ ] Comment the code base
-- [ ] Add more formatting options to the editor such as justifying text
+- Optimize the React components to minimize re-renders
+- Sanity check user input
+- Style the entire application with CSS 
+- Support more storage options such as Google docs
+- Support more dictionaries with an API such as the one provided by the Oxford Dictionary
+- Comment the code base
+- Add more formatting options to the editor such as justifying text
 
 The ultimate goal is to extend YALLE's functionality further to the actual learning process by implementing features such as:
 - replacing the new tab page with a screen where the user can review flash cards 

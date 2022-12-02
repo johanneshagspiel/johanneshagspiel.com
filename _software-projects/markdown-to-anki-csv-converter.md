@@ -5,7 +5,7 @@ description: "💱 A script to import the LinkedIn \"Skill Assessment Quizzes\" 
 published: True
 ---
 
-<img src= "/assets/software-project/markdown-to-anki-csv-converter/markdown-to-anki-csv-converter_logo.JPG" alt="<Markdown-to-Anki-CSV Converter Logo" width="534" height="100">
+<img src= "/assets/software-project/markdown-to-anki-csv-converter/markdown-to-anki-csv-converter_logo.JPG" alt="<Markdown-to-Anki-CSV Converter Logo" width="534" height="100" style="display: block; margin: 0 auto">
 
 ## Markdown-to-Anki-CSV Converter ([repository](https://github.com/johanneshagspiel/markdown-to-anki-csv-converter))
 

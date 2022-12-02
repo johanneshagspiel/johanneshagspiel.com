@@ -73,14 +73,9 @@ Hi there! I am Johannes Hagspiel, a software developer from Austria. I studied C
 
 ### Big Data
 
-✨ [Apache Spark Scripts](/software-projects/apache-spark-scripts): a collection of Apache Spark scripts used to get familiar with the basics of batch processing of big data. 
+💾 [Big Data Scripts](/software-projects/big-data-scripts): a collection of Apache Spark and Apache Flink scripts used to get familiar with the processing of big data.
 
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&color=%23323330&labelColor=A6A9AA) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23F05033.svg?style=for-the-badge&logo=Apache%20Spark&color=%23323330&labelColor=A6A9AA) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&color=%23323330&labelColor=A6A9AA)
-<hr>
-
-🐿️ [Apache Flink Scripts](/software-projects/apache-flink-scripts): a collection of Apache Flink scripts used to get familiar with the basics of stream processing of big data. 
-
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&color=%23323330&labelColor=A6A9AA) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-%23F05033.svg?style=for-the-badge&logo=Apache%20Flink&color=%23323330&labelColor=A6A9AA) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&color=%23323330&labelColor=A6A9AA)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&color=%23323330&labelColor=A6A9AA) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-%23F05033.svg?style=for-the-badge&logo=Apache%20Flink&color=%23323330&labelColor=A6A9AA) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23F05033.svg?style=for-the-badge&logo=Apache%20Spark&color=%23323330&labelColor=A6A9AA) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&color=%23323330&labelColor=A6A9AA)
 <hr>
 
 𝛌 [Functional Programming Scripts](/software-projects/functional-programming-scripts): a collection of Scala scripts used to get familiar with the basics of functional programming. 
@@ -102,6 +97,11 @@ Hi there! I am Johannes Hagspiel, a software developer from Austria. I studied C
 🏋️‍♂️[LeetCode Exercises](/software-projects/leetcode-exercises): an overview of the LeetCode Exercises I have completed until now.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=%23323330&labelColor=A6A9AA) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&color=%23323330&labelColor=A6A9AA) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=%23323330&labelColor=A6A9AA) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&color=%23323330&labelColor=A6A9AA)
+<hr>
+
+🎄️ [Advent of Code](/software-projects/advent-of-code): my solutions to the Advent of Code.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&color=%23323330&labelColor=A6A9AA) ![WebStorm](https://img.shields.io/badge/webstorm-%23323330.svg?style=for-the-badge&logo=webstorm&color=%23323330&labelColor=A6A9AA)
 <hr>
 
 💱 [Markdown-to-Anki-CSV Converter](/software-projects/markdown-to-anki-csv-converter): a script to import the LinkedIn "Skill Assessment Quizzes" into Anki.

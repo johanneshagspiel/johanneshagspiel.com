@@ -5,7 +5,7 @@ description: "🏋️‍♂️ An overview of the completed LeetCode Exercises"
 published: True
 ---
 
-<img src= "/assets/software-project/leetcode-exercises/leetcode_exercises.JPG" alt="LeetCode Logo" width="40%">
+<img src= "/assets/software-project/leetcode-exercises/leetcode_exercises.JPG" alt="LeetCode Logo" width="40%" style="display: block; margin: 0 auto">
 
 ## LeetCode Exercises ([repository](https://github.com/johanneshagspiel/leetcode-exercises))
 

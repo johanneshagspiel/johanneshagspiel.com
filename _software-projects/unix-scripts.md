@@ -5,7 +5,7 @@ description: "📜 A collection of bash scripts"
 published: True
 ---
 
-<img src= "/assets/software-project/unix-scripts/bash_logo.png" alt="Bash Logo" width="25%">
+<img src= "/assets/software-project/unix-scripts/bash_logo.png" alt="Bash Logo" width="25%" style="display: block; margin: 0 auto">
 
 ## Unix Scripts ([repository](https://github.com/johanneshagspiel/unix-scripts))
 

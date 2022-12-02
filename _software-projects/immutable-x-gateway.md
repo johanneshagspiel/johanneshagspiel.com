@@ -5,7 +5,7 @@ description: "🛒 A program to engage with the IMX blockchain"
 published: True
 ---
 
-<img src= "/assets/software-project/immutablex-gateway/imx_gateway.JPG" alt="IMX Gateway Logo" width="50%">
+<img src= "/assets/software-project/immutablex-gateway/imx_gateway.JPG" alt="IMX Gateway Logo" width="50%" style="display: block; margin: 0 auto">
 
 ## Immutable X Gateway ([repository](https://github.com/johanneshagspiel/immutablex-gateway))
 

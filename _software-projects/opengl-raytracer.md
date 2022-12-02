@@ -5,7 +5,7 @@ description: "🦜 A full raytracer created in C++ using OpenGL and Tucano"
 published: True
 ---
 
-<img src= "/assets/software-project/opengl-raytracer/opengl_raytracer_logo.png" alt="OpenGL Raytracer Logo" width="35%">
+<img src= "/assets/software-project/opengl-raytracer/opengl_raytracer_logo.png" alt="OpenGL Raytracer Logo" width="35%" style="display: block; margin: 0 auto">
 
 ## OpenGL Raytracer ([repository](https://github.com/johanneshagspiel/opengl-raytracer))
 
