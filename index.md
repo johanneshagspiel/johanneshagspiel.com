@@ -94,7 +94,7 @@ Hi there! I am Johannes Hagspiel, a software developer from Austria. I studied C
 ![JEKYLL](https://img.shields.io/badge/JEKYLL-%23575757.svg?style=for-the-badge&logo=JEKYLL&color=%23323330&labelColor=A6A9AA) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&color=%23323330&labelColor=A6A9AA) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=%23323330&labelColor=A6A9AA)
 <hr>
 
-🏋️‍♂️[LeetCode Exercises](/software-projects/leetcode-exercises): an overview of the LeetCode Exercises I have completed until now.
+🏋️‍♂️ [LeetCode Exercises](/software-projects/leetcode-exercises): an overview of the LeetCode Exercises I have completed until now.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=%23323330&labelColor=A6A9AA) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&color=%23323330&labelColor=A6A9AA) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=%23323330&labelColor=A6A9AA) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&color=%23323330&labelColor=A6A9AA)
 <hr>
@@ -145,5 +145,5 @@ Hi there! I am Johannes Hagspiel, a software developer from Austria. I studied C
 
 🎧 [Playlist](/miscellaneous/playlist): a playlist of the podcasts I listen to.
 
-📚 [Bookshelf](/miscellaneous//bookshelf); a collection of the books I have read.
+📚 [Bookshelf](/miscellaneous//bookshelf): a collection of the books I have read.
 
