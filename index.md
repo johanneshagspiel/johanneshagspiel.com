@@ -89,7 +89,7 @@ Hi there! I am Johannes Hagspiel, a software developer from Austria. I studied C
 
 ### Websites & Scripts
 
-<img style="float: middle; padding: 0px 0px 2px 0px;" src="../android-chrome-256x256.png"  height="22.23pt" valign="middle"> [johanneshagspiel.github.io](/software-projects/johanneshagspiel): a personal website made with Jekyll and Github Pages. 
+<img style="float: middle; padding: 0px 0px 2px 0px;" src="../android-chrome-256x256.png"  height="22.23pt" valign="middle"> [johanneshagspiel.github.io](/software-projects/johanneshagspiel): a personal website made with Jekyll and GitHub Pages. 
 
 ![JEKYLL](https://img.shields.io/badge/JEKYLL-%23575757.svg?style=for-the-badge&logo=JEKYLL&color=%23323330&labelColor=A6A9AA) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&color=%23323330&labelColor=A6A9AA) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=%23323330&labelColor=A6A9AA)
 <hr>

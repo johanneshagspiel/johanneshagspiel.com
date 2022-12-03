@@ -5,7 +5,7 @@ description: "🔱 my personal website"
 published: True
 ---
 
-<img src= "/assets/software-project/johanneshagspiel/johanneshagspiel_logo.png" alt="johanneshagspiel.com Logo" width="20%"  style="display: block; margin: 0 auto">
+<img src= "/assets/software-project/johanneshagspiel/johanneshagspiel_logo.png" alt="johanneshagspiel.com Logo" width="20%" style="display: block; margin: 0 auto">
 
 ## johanneshagspiel.com ([repository](https://github.com/johanneshagspiel/johanneshagspiel.github.io))
 
