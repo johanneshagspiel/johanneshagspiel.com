@@ -5,7 +5,7 @@
 [![Top Language](https://img.shields.io/github/languages/top/johanneshagspiel/johanneshagspiel.github.io)](https://github.com/johanneshagspiel/johanneshagspiel.github.io)
 [![Latest Release](https://img.shields.io/github/v/release/johanneshagspiel/johanneshagspiel.github.io)](https://github.com/johanneshagspiel/johanneshagspiel.github.io/releases/)
 
-# <img style="float: middle; padding: 0px 0px 2px 0px;" src="/assets/software-project/johanneshagspiel/johanneshagspiel_logo.png"  height="22.23pt" valign="middle"> johanneshagspiel.com
+# johanneshagspiel.com
 
 This repository contains the source code for my [personal website](https://johanneshagspiel.com/).
 
