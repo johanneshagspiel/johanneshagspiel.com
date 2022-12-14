@@ -104,6 +104,11 @@ Hi there! I am Johannes Hagspiel, a software developer from Austria. I studied C
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&color=%23323330&labelColor=A6A9AA) ![WebStorm](https://img.shields.io/badge/webstorm-%23323330.svg?style=for-the-badge&logo=webstorm&color=%23323330&labelColor=A6A9AA)
 <hr>
 
+🎣 [OSF Crawler](/software-projects/osf-crawler): a crawler for the "Open Science Framework" website.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=%23323330&labelColor=A6A9AA) ![spaCy](https://img.shields.io/badge/spaCy-%2300599C.svg?style=for-the-badge&logo=spaCy&color=%23323330&labelColor=A6A9AA) ![Pyppeteer](https://img.shields.io/badge/Pyppeteer-%2300599C.svg?style=for-the-badge&logo=Pyppeteer&color=%23323330&labelColor=A6A9AA) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%2300599C.svg?style=for-the-badge&logo=BeautifulSoup&color=%23323330&labelColor=A6A9AA) ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-%2300599C.svg?style=for-the-badge&logo=OpenPyXL&color=%23323330&labelColor=A6A9AA) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=%23323330&labelColor=A6A9AA) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&color=%23323330&labelColor=A6A9AA) 
+<hr>
+
 💱 [Markdown-to-Anki-CSV Converter](/software-projects/markdown-to-anki-csv-converter): a script to import the LinkedIn "Skill Assessment Quizzes" into Anki.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=%23323330&labelColor=A6A9AA) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=%23323330&labelColor=A6A9AA) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&color=%23323330&labelColor=A6A9AA)
