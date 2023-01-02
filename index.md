@@ -155,5 +155,5 @@ Hi there! I am Johannes Hagspiel, a software developer from Austria. I studied C
 
 🎧 [Playlist](/miscellaneous/playlist): a playlist of the podcasts I listen to.
 
-📚 [Bookshelf](/miscellaneous//bookshelf): a collection of the books I have read.
+📚 [Bookshelf](/miscellaneous/bookshelf): a collection of the books I have read.
 
