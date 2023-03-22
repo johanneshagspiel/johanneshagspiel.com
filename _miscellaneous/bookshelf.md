@@ -7,8 +7,13 @@ published: True
 
 ## Bookshelf
 
-This is collection of all the books I have been reading and have kept track of ever since I purchased a [Tolino](https://mytolino.de/) eReader, which has greatly reinvigorated my reading habit. 
+This is collection of all the books I have been reading and have kept track of. 
 
+- The Hunger of the Gods, John Gwynne
+- In the Shadow of Lightning, Brian McClellan
+- Age of Ash, Daniel Abraham
+- The Lost Metal, Brandon Sanderson
+- Empire in Black and Gold, Adrian Tchaikovsky
 - The Shadow of the Gods, John Gwynne
 - A Memory of Light, Robert Jordan & Brandon Sanderson
 - Towers of Midnight, Robert Jordan & Brandon Sanderson
