@@ -1,16 +1,14 @@
 ---
-layout: page
+layout: default
 ---
 
-## about me
+<section>
+  <div>
+    <p>
+      <img style="float: middle; padding: 0px 0px 2px 0px;" src="../android-chrome-256x256.png"  height="22.23pt" valign="middle">  <a href="/">Home</a>  <a href="/contact">Contact</a>
+    </p>
+  </div>
+  {{ content }}
+</section>
 
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanneshagspiel&layout=compact&langs_count=6&hide=G-code,CMake,)](https://github.com/anuraghazra/github-readme-stats)
-
-Programming Languages: Python, Java, Scala, Haskell, C++
-
-Development Tools: Git, Maven, 
-
-UX & Graphics: PyQt, Matplotlib
- -->
+<embed src="/assets/pdf/Lebenslauf_Johannes_Hagspiel.pdf" height="1000vh"  type="application/pdf">
