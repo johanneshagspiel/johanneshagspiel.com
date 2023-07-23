@@ -11,4 +11,4 @@ layout: default
   {{ content }}
 </section>
 
-<embed src="/assets/pdf/Lebenslauf_Johannes_Hagspiel.pdf" height="1000vh"  type="application/pdf">
+<embed src="/assets/pdf/CV_Johannes_Hagspiel.pdf" height="1000vh"  type="application/pdf">
